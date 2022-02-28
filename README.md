@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flgerritse
+- 👋 Hi, I’m @flgerritse, MD and psychiatrist in the Netherlands
 - 👀 I’m interested in psychiatry, big data, python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on psychiatry and big data
